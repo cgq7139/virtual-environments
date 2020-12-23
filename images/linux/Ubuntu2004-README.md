@@ -6,7 +6,7 @@
 # Ubuntu 20.04.1 LTS
 - Image Version: 20201210.0
 
-## Installed Software
+### Installed Software
 ### Language and Runtime
 - GNU C++ 7.5.0, 8.4.0, 9.3.0, 10.2.0
 - GNU Fortran 8.4.0, 9.3.0, 10.2.0
